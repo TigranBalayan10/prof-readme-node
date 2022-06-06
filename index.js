@@ -52,7 +52,7 @@ const questions = () => {
     {
       type: "input",
       name: "questions",
-      message: "Who can contact you with questions?",
+      message: "GitHub for questions?",
     },
     {
       type: "input",
